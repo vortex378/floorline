@@ -4,8 +4,10 @@
 
 The demo project is **Vela Residence**, a fictional 12-level building in Tirana with 65 units, in English, Albanian and Italian.
 
-**Live demo:** LIVE_URL_PLACEHOLDER
-&nbsp;·&nbsp; Sales office: `/en/admin` (choose a demo persona, no password)
+[![CI](https://github.com/vortex378/floorline/actions/workflows/ci.yml/badge.svg)](https://github.com/vortex378/floorline/actions/workflows/ci.yml)
+
+**Live demo:** [vela-floorline.vercel.app](https://vela-floorline.vercel.app)
+&nbsp;·&nbsp; Sales office: [/en/admin](https://vela-floorline.vercel.app/en/admin) (choose a demo persona, no password)
 
 ![Home](docs/screenshots/home.png)
 
