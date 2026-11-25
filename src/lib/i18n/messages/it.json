@@ -1,0 +1,421 @@
+{
+  "meta": {
+    "title": "Vela Residence · Tirana",
+    "description": "Scegli il tuo appartamento piano per piano. Disponibilità in tempo reale, planimetrie e prezzi di Vela Residence, un progetto residenziale fittizio a Tirana.",
+    "units": "Residenze",
+    "compare": "Confronta",
+    "admin": "Ufficio vendite"
+  },
+  "nav": {
+    "residences": "Residenze",
+    "building": "Edificio",
+    "location": "Posizione",
+    "progress": "Cantiere",
+    "contact": "Contatti",
+    "findHome": "Trova la tua casa",
+    "salesOffice": "Ufficio vendite",
+    "compare": "Confronta",
+    "menu": "Menu",
+    "close": "Chiudi",
+    "language": "Lingua",
+    "skip": "Vai al contenuto"
+  },
+  "demo": {
+    "banner": "Progetto demo fittizio. I dati sono una sandbox salvata nel tuo browser.",
+    "footer": "Vela Residence è un progetto fittizio realizzato come demo di prodotto. Nessun appartamento, persona o prezzo è reale.",
+    "builtBy": "Realizzato da Arkel Lahi",
+    "source": "Codice sorgente"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Tirana · Consegna {delivery}",
+      "title": "Vivi sopra la città.",
+      "lead": "Dodici livelli, sessantacinque case e un giardino pensile vicino al Grande Parco. Scegli il tuo appartamento piano per piano, con disponibilità aggiornata in tempo reale.",
+      "cta": "Esplora le residenze",
+      "secondary": "Prenota una visita",
+      "scroll": "Scorri"
+    },
+    "stats": {
+      "homes": "Case",
+      "levels": "Livelli",
+      "sold": "Venduto",
+      "handover": "Consegna"
+    },
+    "intro": {
+      "eyebrow": "L'edificio",
+      "title": "Architettura discreta. Luce generosa.",
+      "body": "Vela è una torre slanciata in travertino caldo e bronzo, arretrata dalla strada dietro una corte verde. Ogni casa ha un balcone profondo, vetrate a tutta altezza e ventilazione incrociata. Spazi commerciali al piano strada, terrazze private in cima.",
+      "points": ["Balconi profondi in ogni casa", "Parcheggio interrato e cantine", "Classe energetica A", "Portineria e ingresso sicuro"]
+    },
+    "typologies": {
+      "eyebrow": "Tipologie",
+      "title": "Quattro modi di vivere Vela.",
+      "from": "Da",
+      "available": "{count} disponibili",
+      "soldOut": "Esaurito",
+      "onRequest": "Prezzo su richiesta",
+      "view": "Vedi le case"
+    },
+    "location": {
+      "eyebrow": "Posizione",
+      "title": "Vicino a tutto ciò che conta.",
+      "body": "Una via residenziale tranquilla, a pochi passi dal parco e a dieci minuti dal centro.",
+      "points": {
+        "park": "Grande Parco",
+        "center": "Centro città",
+        "school": "Scuola internazionale",
+        "airport": "Aeroporto",
+        "market": "Mercato e caffè"
+      },
+      "minutes": "{n} min",
+      "walk": "a piedi",
+      "drive": "in auto"
+    },
+    "amenities": {
+      "eyebrow": "Servizi",
+      "title": "Pensato per la vita di ogni giorno.",
+      "items": {
+        "garden": ["Giardino pensile", "Terrazza comune con vista sulla città al livello 12."],
+        "parking": ["Parcheggio", "Due livelli interrati con ricarica per auto elettriche."],
+        "lobby": ["Lobby e portineria", "Ingresso a doppia altezza con sicurezza 24/7."],
+        "gym": ["Palestra", "Palestra attrezzata per i residenti."],
+        "storage": ["Cantina", "Cantina privata per ogni appartamento."],
+        "solar": ["Solare e pompe di calore", "Costi di gestione ridotti, classe A."]
+      }
+    },
+    "progress": {
+      "eyebrow": "Cantiere",
+      "title": "Nei tempi per il {delivery}.",
+      "stages": ["Permessi", "Fondazioni", "Struttura", "Facciata e copertura", "Interni e consegna"],
+      "done": "Completato",
+      "current": "In corso",
+      "next": "Prossimo"
+    },
+    "contact": {
+      "eyebrow": "Visita",
+      "title": "Vedila prima che sia costruita.",
+      "body": "Prenota una visita al nostro ufficio vendite, oppure chiedi planimetrie e piano di pagamento su WhatsApp.",
+      "office": "Ufficio vendite in cantiere",
+      "hours": "Lun–Sab · 9:00–19:00",
+      "whatsapp": "Scrivici su WhatsApp"
+    }
+  },
+  "types": {
+    "1+1": "Bilocale",
+    "2+1": "Trilocale",
+    "3+1": "Quadrilocale",
+    "penthouse": "Attico",
+    "commercial": "Commerciale"
+  },
+  "typesLong": {
+    "1+1": "Bilocale (1+1)",
+    "2+1": "Trilocale (2+1)",
+    "3+1": "Quadrilocale (3+1)",
+    "penthouse": "Attico",
+    "commercial": "Locale commerciale"
+  },
+  "status": {
+    "available": "Disponibile",
+    "reserved": "Prenotato",
+    "sold": "Venduto",
+    "unavailable": "Non in vendita"
+  },
+  "orientation": {
+    "N": "Nord",
+    "NE": "Nord-est",
+    "E": "Est",
+    "SE": "Sud-est",
+    "S": "Sud",
+    "SW": "Sud-ovest",
+    "W": "Ovest",
+    "NW": "Nord-ovest"
+  },
+  "rooms": {
+    "living": "Soggiorno",
+    "bed": "Camera",
+    "bath": "Bagno",
+    "kitchen": "Cucina",
+    "terrace": "Terrazza",
+    "storage": "Ripost.",
+    "shop": "Negozio",
+    "lobby": "Atrio"
+  },
+  "floors": {
+    "ground": "Piano terra",
+    "penthouse": "Livello attici",
+    "floor": "Piano {n}",
+    "short": "P{n}",
+    "groundShort": "T",
+    "phShort": "AT"
+  },
+  "picker": {
+    "eyebrow": "Residenze",
+    "title": "Scegli la tua casa",
+    "subtitle": "Scegli un piano, poi una casa. La disponibilità è in tempo reale.",
+    "building": "Edificio",
+    "list": "Elenco",
+    "selectFloor": "Scegli un piano",
+    "floorSummary": "{available} di {total} disponibili",
+    "from": "da {price}",
+    "noneOnFloor": "Nessuna casa su questo piano corrisponde ai filtri.",
+    "results": "{count} case corrispondono",
+    "liveHint": "Live: apri l'ufficio vendite in un'altra scheda e prenota un'unità per vederla aggiornarsi qui.",
+    "openSalesOffice": "Apri l'ufficio vendite",
+    "unitLabel": "{code}, {type}, {area}, {status}",
+    "north": "N",
+    "scale": "10 m"
+  },
+  "filters": {
+    "title": "Filtri",
+    "open": "Filtri",
+    "type": "Tipologia",
+    "price": "Prezzo (€)",
+    "area": "Superficie (m²)",
+    "floor": "Piano",
+    "orientation": "Esposizione",
+    "availableOnly": "Solo disponibili",
+    "min": "Min",
+    "max": "Max",
+    "reset": "Azzera",
+    "apply": "Mostra {count} case",
+    "active": "{count} attivi"
+  },
+  "list": {
+    "code": "Casa",
+    "type": "Tipologia",
+    "floor": "Piano",
+    "area": "Superficie",
+    "orientation": "Esposizione",
+    "price": "Prezzo",
+    "status": "Stato",
+    "sortBy": "Ordina per {field}",
+    "empty": "Nessuna casa corrisponde ai filtri."
+  },
+  "unit": {
+    "eyebrow": "Residenza {code}",
+    "back": "Tutte le residenze",
+    "facts": "Dati principali",
+    "type": "Tipologia",
+    "floor": "Piano",
+    "areaNet": "Superficie netta",
+    "areaGross": "Superficie lorda",
+    "terrace": "Balcone / terrazza",
+    "bedrooms": "Camere",
+    "bathrooms": "Bagni",
+    "orientation": "Esposizione",
+    "pricePerM2": "{price} / m²",
+    "onRequest": "Prezzo su richiesta",
+    "request": "Richiedi una visita",
+    "reserve": "Prenota questa casa",
+    "whatsapp": "WhatsApp",
+    "whatsappText": "Buongiorno! Sono interessato alla residenza {code} ({type}) di Vela Residence: {url}",
+    "copyLink": "Copia link",
+    "copied": "Link copiato",
+    "print": "Stampa",
+    "save": "Salva",
+    "saved": "Salvato",
+    "compare": "Confronta",
+    "comparing": "In confronto",
+    "similar": "Case simili",
+    "noSimilar": "Al momento non ci sono case simili disponibili.",
+    "notAvailable": "Questa casa è {status}. Iscriviti alla lista d'attesa o guarda case simili.",
+    "view": "Vedi la casa",
+    "planTitle": "Planimetria della residenza {code}",
+    "compass": "Esposizione {dir}",
+    "updated": "Stato aggiornato in tempo reale"
+  },
+  "lead": {
+    "title": "Richiedi una visita",
+    "subtitle": "Ti risponderemo entro un giorno lavorativo.",
+    "for": "Per: {codes}",
+    "name": "Nome e cognome",
+    "phone": "Telefono",
+    "email": "Email",
+    "emailOptional": "Email (facoltativa)",
+    "preferred": "Contatto preferito",
+    "message": "Messaggio",
+    "messagePlaceholder": "Quando vorresti venire? Hai domande?",
+    "consent": "Accetto di essere contattato riguardo a Vela Residence.",
+    "submit": "Invia richiesta",
+    "sending": "Invio…",
+    "successTitle": "Richiesta ricevuta",
+    "successBody": "Grazie, {name}. Un consulente ti contatterà tramite {method}.",
+    "successHint": "Questa è una demo — la tua richiesta ora compare nell'ufficio vendite.",
+    "seeInOffice": "Vedila nell'ufficio vendite",
+    "close": "Chiudi",
+    "methods": {
+      "whatsapp": "WhatsApp",
+      "phone": "Telefonata",
+      "email": "Email"
+    },
+    "errors": {
+      "name_min": "Inserisci il tuo nome.",
+      "phone_invalid": "Inserisci un numero di telefono valido.",
+      "email_invalid": "Inserisci un'email valida.",
+      "email_required": "L'email è obbligatoria se preferisci essere contattato via email.",
+      "consent_required": "Accetta per continuare.",
+      "too_long": "Troppo lungo.",
+      "unknown_unit": "Casa sconosciuta.",
+      "rate_limited": "Troppe richieste. Riprova tra {minutes} min.",
+      "generic": "Qualcosa è andato storto. Riprova."
+    }
+  },
+  "compare": {
+    "eyebrow": "Confronta",
+    "title": "Confronta le case",
+    "empty": "Aggiungi fino a tre case per confrontarle fianco a fianco.",
+    "browse": "Sfoglia le residenze",
+    "remove": "Rimuovi",
+    "max": "Puoi confrontare fino a 3 case.",
+    "price": "Prezzo"
+  },
+  "admin": {
+    "title": "Ufficio vendite",
+    "sandbox": "Sandbox",
+    "sandboxHint": "Tutto qui funziona nel tuo browser. Le modifiche si sincronizzano in tempo reale con le altre schede aperte.",
+    "reset": "Ripristina i dati demo",
+    "resetConfirm": "Ripristinare unità, contatti e cronologia ai dati demo iniziali?",
+    "signIn": {
+      "title": "Accedi all'ufficio vendite",
+      "body": "Scegli un profilo demo. I permessi cambiano in base al ruolo.",
+      "admin": "Responsabile vendite",
+      "adminHint": "Accesso completo: prezzi, modifiche in blocco, annullamento vendite, registro.",
+      "agent": "Agente di vendita",
+      "agentHint": "Prenota e vendi unità, gestisci i contatti.",
+      "continue": "Continua come {name}"
+    },
+    "signOut": "Cambia utente",
+    "nav": {
+      "dashboard": "Dashboard",
+      "units": "Unità",
+      "leads": "Contatti",
+      "activity": "Attività",
+      "site": "Vedi il sito"
+    },
+    "roles": {
+      "admin": "Responsabile",
+      "agent": "Agente"
+    },
+    "kpi": {
+      "sold": "Vendute",
+      "reserved": "Prenotate",
+      "available": "Disponibili",
+      "soldValue": "Valore vendite",
+      "reservedValue": "Valore prenotato",
+      "newLeads": "Nuovi contatti (7 giorni)",
+      "conversion": "Contatto → vendita",
+      "ofUnits": "su {total} unità"
+    },
+    "charts": {
+      "salesByMonth": "Vendite per mese",
+      "leadsBySource": "Contatti per fonte",
+      "inventory": "Disponibilità per piano",
+      "units": "{count} unità"
+    },
+    "sources": {
+      "unit_page": "Pagina unità",
+      "picker": "Selettore",
+      "contact": "Modulo contatti",
+      "compare": "Confronto"
+    },
+    "recent": "Attività recente",
+    "units": {
+      "search": "Cerca codice…",
+      "allStatuses": "Tutti gli stati",
+      "allTypes": "Tutte le tipologie",
+      "allFloors": "Tutti i piani",
+      "bulk": "Modifica prezzi in blocco",
+      "count": "{count} unità",
+      "lastChange": "Ultima modifica"
+    },
+    "unitDrawer": {
+      "changeStatus": "Cambia stato",
+      "to": "Nuovo stato",
+      "linkLead": "Collega un contatto (facoltativo)",
+      "noLead": "Nessun contatto",
+      "note": "Nota",
+      "notePlaceholder": "es. Caparra ricevuta",
+      "apply": "Aggiorna stato",
+      "noTransitions": "Il tuo ruolo non consente cambi di stato.",
+      "price": "Prezzo",
+      "visible": "Mostra il prezzo sul sito",
+      "savePrice": "Salva prezzo",
+      "history": "Cronologia",
+      "noHistory": "Nessuna modifica.",
+      "priceChange": "Prezzo {old} → {new}",
+      "statusChange": "{from} → {to}",
+      "viewOnSite": "Vedi sul sito",
+      "managerOnly": "Solo un responsabile vendite può modificare i prezzi."
+    },
+    "bulk": {
+      "title": "Modifica prezzi in blocco",
+      "body": "Aggiorna il prezzo di ogni unità ancora in vendita che corrisponde alla selezione.",
+      "floors": "Piani",
+      "types": "Tipologie",
+      "all": "Tutti",
+      "percent": "Variazione (%)",
+      "reason": "Motivo",
+      "reasonPlaceholder": "es. Listino fase 3",
+      "preview": "Anteprima",
+      "rows": "{count} unità · totale {delta}",
+      "apply": "Applica a {count} unità",
+      "none": "Nessuna unità in vendita corrisponde alla selezione."
+    },
+    "leads": {
+      "search": "Cerca nome, telefono, unità…",
+      "export": "Esporta CSV",
+      "allSources": "Tutte le fonti",
+      "unassigned": "Non assegnato",
+      "moveTo": "Sposta in",
+      "notes": "Note",
+      "addNote": "Aggiungi nota",
+      "notePlaceholder": "Scrivi una nota…",
+      "assign": "Assegnato a",
+      "units": "Case",
+      "contact": "Contatto",
+      "message": "Messaggio",
+      "received": "Ricevuto {when}",
+      "empty": "Nessun contatto",
+      "dragHint": "Trascina le schede tra le colonne o usa il menu Sposta."
+    },
+    "stages": {
+      "new": "Nuovi",
+      "contacted": "Contattati",
+      "viewing": "Visita",
+      "reserved": "Prenotati",
+      "won": "Chiusi",
+      "lost": "Persi"
+    },
+    "activity": {
+      "title": "Registro attività",
+      "status": "Stato",
+      "price": "Prezzo",
+      "all": "Tutto",
+      "by": "di {actor}",
+      "managerOnly": "Il registro completo è disponibile per i responsabili vendite."
+    },
+    "errors": {
+      "conflict": "Qualcun altro ha appena aggiornato questa unità. Ora vedi i dati più recenti — riprova.",
+      "forbidden": "Il tuo ruolo non consente questa azione.",
+      "invalid_transition": "Questo cambio di stato non è consentito.",
+      "same_status": "L'unità ha già questo stato.",
+      "validation": "Controlla il modulo.",
+      "not_found": "Non trovato.",
+      "empty_selection": "Niente da modificare.",
+      "rate_limited": "Rallenta un attimo.",
+      "saved": "Salvato"
+    }
+  },
+  "common": {
+    "close": "Chiudi",
+    "cancel": "Annulla",
+    "save": "Salva",
+    "all": "Tutti",
+    "yes": "Sì",
+    "no": "No",
+    "legend": "Legenda",
+    "loading": "Caricamento…",
+    "notFound": "Pagina non trovata",
+    "goHome": "Torna alla home"
+  }
+}

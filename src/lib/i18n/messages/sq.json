@@ -1,0 +1,421 @@
+{
+  "meta": {
+    "title": "Vela Residence · Tiranë",
+    "description": "Zgjidhni apartamentin kat pas kati. Disponueshmëri live, planimetri dhe çmime për Vela Residence, një projekt fiktiv banimi në Tiranë.",
+    "units": "Apartamentet",
+    "compare": "Krahaso",
+    "admin": "Zyra e shitjeve"
+  },
+  "nav": {
+    "residences": "Apartamentet",
+    "building": "Ndërtesa",
+    "location": "Vendndodhja",
+    "progress": "Ecuria",
+    "contact": "Kontakt",
+    "findHome": "Gjej shtëpinë",
+    "salesOffice": "Zyra e shitjeve",
+    "compare": "Krahaso",
+    "menu": "Menu",
+    "close": "Mbyll",
+    "language": "Gjuha",
+    "skip": "Kalo te përmbajtja"
+  },
+  "demo": {
+    "banner": "Projekt demo fiktiv. Të dhënat ruhen vetëm në shfletuesin tuaj.",
+    "footer": "Vela Residence është një projekt fiktiv i ndërtuar si demo produkti. Asnjë apartament, person apo çmim nuk është real.",
+    "builtBy": "Ndërtuar nga Arkel Lahi",
+    "source": "Kodi burimor"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Tiranë · Dorëzimi {delivery}",
+      "title": "Jeto mbi qytet.",
+      "lead": "Dymbëdhjetë nivele, gjashtëdhjetë e pesë shtëpi dhe një kopsht në tarracë pranë Parkut të Madh. Zgjidhni apartamentin kat pas kati, me disponueshmëri që përditësohet live.",
+      "cta": "Shiko apartamentet",
+      "secondary": "Rezervo një vizitë",
+      "scroll": "Lëviz"
+    },
+    "stats": {
+      "homes": "Shtëpi",
+      "levels": "Nivele",
+      "sold": "Shitur",
+      "handover": "Dorëzimi"
+    },
+    "intro": {
+      "eyebrow": "Ndërtesa",
+      "title": "Arkitekturë e qetë. Dritë e bollshme.",
+      "body": "Vela është një kullë e hollë me travertinë të ngrohtë dhe bronz, e tërhequr nga rruga pas një oborri të gjelbër. Çdo shtëpi ka ballkon të thellë, xhama nga dyshemeja në tavan dhe ajrosje të tërthortë. Ambiente tregtare në katin përdhe, tarraca private në majë.",
+      "points": ["Ballkone të thella në çdo shtëpi", "Parkim nëntokësor dhe depo", "Performancë energjetike Klasa A", "Portier dhe holl i sigurt"]
+    },
+    "typologies": {
+      "eyebrow": "Tipologjitë",
+      "title": "Katër mënyra për të jetuar në Vela.",
+      "from": "Nga",
+      "available": "{count} të lira",
+      "soldOut": "Të shitura",
+      "onRequest": "Çmimi me kërkesë",
+      "view": "Shiko shtëpitë"
+    },
+    "location": {
+      "eyebrow": "Vendndodhja",
+      "title": "Pranë gjithçkaje që ka rëndësi.",
+      "body": "Një rrugë e qetë banimi, disa minuta në këmbë nga parku dhe dhjetë minuta nga qendra.",
+      "points": {
+        "park": "Parku i Madh",
+        "center": "Qendra e qytetit",
+        "school": "Shkolla ndërkombëtare",
+        "airport": "Aeroporti",
+        "market": "Treg & kafene"
+      },
+      "minutes": "{n} min",
+      "walk": "në këmbë",
+      "drive": "me makinë"
+    },
+    "amenities": {
+      "eyebrow": "Shërbimet",
+      "title": "Projektuar për jetën e përditshme.",
+      "items": {
+        "garden": ["Kopsht në tarracë", "Tarracë e përbashkët me pamje nga qyteti në nivelin 12."],
+        "parking": ["Parkim", "Dy nivele nëntokësore me karikim për makina elektrike."],
+        "lobby": ["Holl & portier", "Hyrje me lartësi të dyfishtë dhe siguri 24/7."],
+        "gym": ["Palestër", "Palestër e pajisur për banorët."],
+        "storage": ["Depo", "Depo private për çdo apartament."],
+        "solar": ["Panele diellore & pompa nxehtësie", "Kosto më të ulëta, klasa A."]
+      }
+    },
+    "progress": {
+      "eyebrow": "Ndërtimi",
+      "title": "Sipas grafikut për {delivery}.",
+      "stages": ["Lejet", "Themelet", "Struktura", "Fasada & çatia", "Brendësia & dorëzimi"],
+      "done": "Përfunduar",
+      "current": "Në proces",
+      "next": "Në vijim"
+    },
+    "contact": {
+      "eyebrow": "Vizitë",
+      "title": "Shiheni para se të ndërtohet.",
+      "body": "Rezervoni një vizitë në zyrën tonë të shitjeve, ose kërkoni planimetritë dhe planin e pagesave në WhatsApp.",
+      "office": "Zyra e shitjeve në kantier",
+      "hours": "Hën–Sht · 9:00–19:00",
+      "whatsapp": "Shkruani në WhatsApp"
+    }
+  },
+  "types": {
+    "1+1": "1+1",
+    "2+1": "2+1",
+    "3+1": "3+1",
+    "penthouse": "Penthouse",
+    "commercial": "Njësi tregtare"
+  },
+  "typesLong": {
+    "1+1": "Apartament 1+1",
+    "2+1": "Apartament 2+1",
+    "3+1": "Apartament 3+1",
+    "penthouse": "Penthouse",
+    "commercial": "Ambient tregtar"
+  },
+  "status": {
+    "available": "E lirë",
+    "reserved": "E rezervuar",
+    "sold": "E shitur",
+    "unavailable": "Jo në shitje"
+  },
+  "orientation": {
+    "N": "Veri",
+    "NE": "Verilindje",
+    "E": "Lindje",
+    "SE": "Juglindje",
+    "S": "Jug",
+    "SW": "Jugperëndim",
+    "W": "Perëndim",
+    "NW": "Veriperëndim"
+  },
+  "rooms": {
+    "living": "Ndenje",
+    "bed": "Gjumi",
+    "bath": "Banjo",
+    "kitchen": "Kuzhina",
+    "terrace": "Tarracë",
+    "storage": "Depo",
+    "shop": "Dyqan",
+    "lobby": "Holl"
+  },
+  "floors": {
+    "ground": "Kati përdhe",
+    "penthouse": "Niveli penthouse",
+    "floor": "Kati {n}",
+    "short": "K{n}",
+    "groundShort": "P",
+    "phShort": "PH"
+  },
+  "picker": {
+    "eyebrow": "Apartamentet",
+    "title": "Zgjidhni shtëpinë tuaj",
+    "subtitle": "Zgjidhni një kat, pastaj një shtëpi. Disponueshmëria është live.",
+    "building": "Ndërtesa",
+    "list": "Lista",
+    "selectFloor": "Zgjidhni katin",
+    "floorSummary": "{available} nga {total} të lira",
+    "from": "nga {price}",
+    "noneOnFloor": "Asnjë shtëpi në këtë kat nuk përputhet me filtrat.",
+    "results": "{count} shtëpi përputhen",
+    "liveHint": "Live: hapni zyrën e shitjeve në një skedë tjetër dhe rezervoni një njësi për ta parë të përditësohet këtu.",
+    "openSalesOffice": "Hap zyrën e shitjeve",
+    "unitLabel": "{code}, {type}, {area}, {status}",
+    "north": "V",
+    "scale": "10 m"
+  },
+  "filters": {
+    "title": "Filtrat",
+    "open": "Filtrat",
+    "type": "Tipi",
+    "price": "Çmimi (€)",
+    "area": "Sipërfaqja (m²)",
+    "floor": "Kati",
+    "orientation": "Orientimi",
+    "availableOnly": "Vetëm të lirat",
+    "min": "Min",
+    "max": "Max",
+    "reset": "Pastro",
+    "apply": "Shfaq {count} shtëpi",
+    "active": "{count} aktivë"
+  },
+  "list": {
+    "code": "Shtëpia",
+    "type": "Tipi",
+    "floor": "Kati",
+    "area": "Sipërfaqja",
+    "orientation": "Orientimi",
+    "price": "Çmimi",
+    "status": "Statusi",
+    "sortBy": "Rendit sipas {field}",
+    "empty": "Asnjë shtëpi nuk përputhet me filtrat."
+  },
+  "unit": {
+    "eyebrow": "Apartamenti {code}",
+    "back": "Të gjitha apartamentet",
+    "facts": "Të dhëna kryesore",
+    "type": "Tipi",
+    "floor": "Kati",
+    "areaNet": "Sipërfaqja neto",
+    "areaGross": "Sipërfaqja bruto",
+    "terrace": "Ballkon / tarracë",
+    "bedrooms": "Dhoma gjumi",
+    "bathrooms": "Banjo",
+    "orientation": "Orientimi",
+    "pricePerM2": "{price} / m²",
+    "onRequest": "Çmimi me kërkesë",
+    "request": "Kërko një vizitë",
+    "reserve": "Rezervo këtë shtëpi",
+    "whatsapp": "WhatsApp",
+    "whatsappText": "Përshëndetje! Jam i interesuar për apartamentin {code} ({type}) në Vela Residence: {url}",
+    "copyLink": "Kopjo linkun",
+    "copied": "Linku u kopjua",
+    "print": "Printo",
+    "save": "Ruaj",
+    "saved": "E ruajtur",
+    "compare": "Krahaso",
+    "comparing": "Në krahasim",
+    "similar": "Shtëpi të ngjashme",
+    "noSimilar": "Nuk ka shtëpi të ngjashme të lira për momentin.",
+    "notAvailable": "Kjo shtëpi është {status}. Bashkohuni në listën e pritjes ose shikoni shtëpi të ngjashme.",
+    "view": "Shiko shtëpinë",
+    "planTitle": "Planimetria e apartamentit {code}",
+    "compass": "Orientimi {dir}",
+    "updated": "Statusi u përditësua live"
+  },
+  "lead": {
+    "title": "Kërko një vizitë",
+    "subtitle": "Do t'ju kontaktojmë brenda një dite pune.",
+    "for": "Për: {codes}",
+    "name": "Emri i plotë",
+    "phone": "Telefoni",
+    "email": "Email",
+    "emailOptional": "Email (opsional)",
+    "preferred": "Kontakti i preferuar",
+    "message": "Mesazhi",
+    "messagePlaceholder": "Kur dëshironi të vini? Keni pyetje?",
+    "consent": "Pranoj të kontaktohem për Vela Residence.",
+    "submit": "Dërgo kërkesën",
+    "sending": "Duke dërguar…",
+    "successTitle": "Kërkesa u mor",
+    "successBody": "Faleminderit, {name}. Një këshilltar shitjesh do t'ju kontaktojë me {method}.",
+    "successHint": "Ky është një demo — kërkesa juaj tani shfaqet në zyrën e shitjeve.",
+    "seeInOffice": "Shikoje në zyrën e shitjeve",
+    "close": "Mbyll",
+    "methods": {
+      "whatsapp": "WhatsApp",
+      "phone": "Telefonatë",
+      "email": "Email"
+    },
+    "errors": {
+      "name_min": "Ju lutem shkruani emrin.",
+      "phone_invalid": "Ju lutem shkruani një numër të vlefshëm.",
+      "email_invalid": "Ju lutem shkruani një email të vlefshëm.",
+      "email_required": "Email-i kërkohet nëse preferoni email.",
+      "consent_required": "Ju lutem pranoni për të vazhduar.",
+      "too_long": "Shumë i gjatë.",
+      "unknown_unit": "Shtëpi e panjohur.",
+      "rate_limited": "Shumë kërkesa. Provoni sërish pas {minutes} min.",
+      "generic": "Diçka shkoi keq. Ju lutem provoni sërish."
+    }
+  },
+  "compare": {
+    "eyebrow": "Krahaso",
+    "title": "Krahaso shtëpitë",
+    "empty": "Shtoni deri në tre shtëpi për t'i krahasuar krah për krah.",
+    "browse": "Shiko apartamentet",
+    "remove": "Hiq",
+    "max": "Mund të krahasoni deri në 3 shtëpi.",
+    "price": "Çmimi"
+  },
+  "admin": {
+    "title": "Zyra e shitjeve",
+    "sandbox": "Sandbox",
+    "sandboxHint": "Gjithçka këtu funksionon në shfletuesin tuaj. Ndryshimet sinkronizohen live në skedat e tjera.",
+    "reset": "Rivendos të dhënat demo",
+    "resetConfirm": "Të rivendosen të gjitha njësitë, klientët dhe historiku në gjendjen fillestare?",
+    "signIn": {
+      "title": "Hyni në zyrën e shitjeve",
+      "body": "Zgjidhni një profil demo. Lejet ndryshojnë sipas rolit.",
+      "admin": "Menaxhere shitjesh",
+      "adminHint": "Akses i plotë: çmime, ndryshime në masë, anulim shitjesh, regjistri i auditimit.",
+      "agent": "Agjente shitjesh",
+      "agentHint": "Rezervo dhe shit njësi, menaxho klientët.",
+      "continue": "Vazhdo si {name}"
+    },
+    "signOut": "Ndrysho përdoruesin",
+    "nav": {
+      "dashboard": "Paneli",
+      "units": "Njësitë",
+      "leads": "Klientët",
+      "activity": "Aktiviteti",
+      "site": "Shiko faqen"
+    },
+    "roles": {
+      "admin": "Menaxhere",
+      "agent": "Agjente"
+    },
+    "kpi": {
+      "sold": "Të shitura",
+      "reserved": "Të rezervuara",
+      "available": "Të lira",
+      "soldValue": "Vlera e shitjeve",
+      "reservedValue": "Vlera e rezervuar",
+      "newLeads": "Klientë të rinj (7 ditë)",
+      "conversion": "Klient → shitje",
+      "ofUnits": "nga {total} njësi"
+    },
+    "charts": {
+      "salesByMonth": "Shitjet sipas muajit",
+      "leadsBySource": "Klientët sipas burimit",
+      "inventory": "Inventari sipas katit",
+      "units": "{count} njësi"
+    },
+    "sources": {
+      "unit_page": "Faqja e njësisë",
+      "picker": "Zgjedhësi",
+      "contact": "Formulari i kontaktit",
+      "compare": "Krahasimi"
+    },
+    "recent": "Aktiviteti i fundit",
+    "units": {
+      "search": "Kërko kodin…",
+      "allStatuses": "Të gjitha statuset",
+      "allTypes": "Të gjithë tipet",
+      "allFloors": "Të gjithë katet",
+      "bulk": "Ndryshim çmimi në masë",
+      "count": "{count} njësi",
+      "lastChange": "Ndryshimi i fundit"
+    },
+    "unitDrawer": {
+      "changeStatus": "Ndrysho statusin",
+      "to": "Statusi i ri",
+      "linkLead": "Lidh një klient (opsional)",
+      "noLead": "Pa klient",
+      "note": "Shënim",
+      "notePlaceholder": "p.sh. U mor kapari",
+      "apply": "Përditëso statusin",
+      "noTransitions": "Roli juaj nuk lejon ndryshime statusi.",
+      "price": "Çmimi",
+      "visible": "Shfaq çmimin në faqe",
+      "savePrice": "Ruaj çmimin",
+      "history": "Historiku",
+      "noHistory": "Ende pa ndryshime.",
+      "priceChange": "Çmimi {old} → {new}",
+      "statusChange": "{from} → {to}",
+      "viewOnSite": "Shiko në faqe",
+      "managerOnly": "Vetëm menaxherja e shitjeve mund të ndryshojë çmimet."
+    },
+    "bulk": {
+      "title": "Ndryshim çmimi në masë",
+      "body": "Ndrysho çmimin e çdo njësie ende në shitje që përputhet me zgjedhjen.",
+      "floors": "Katet",
+      "types": "Tipet",
+      "all": "Të gjitha",
+      "percent": "Ndryshimi (%)",
+      "reason": "Arsyeja",
+      "reasonPlaceholder": "p.sh. Çmimet e fazës 3",
+      "preview": "Parapamje",
+      "rows": "{count} njësi · gjithsej {delta}",
+      "apply": "Apliko te {count} njësi",
+      "none": "Asnjë njësi në shitje nuk përputhet me zgjedhjen."
+    },
+    "leads": {
+      "search": "Kërko emër, telefon, njësi…",
+      "export": "Eksporto CSV",
+      "allSources": "Të gjitha burimet",
+      "unassigned": "Pa caktuar",
+      "moveTo": "Zhvendos te",
+      "notes": "Shënime",
+      "addNote": "Shto shënim",
+      "notePlaceholder": "Shkruani një shënim…",
+      "assign": "Caktuar te",
+      "units": "Shtëpitë",
+      "contact": "Kontakti",
+      "message": "Mesazhi",
+      "received": "Marrë {when}",
+      "empty": "Pa klientë",
+      "dragHint": "Tërhiqni kartat mes kolonave ose përdorni menunë Zhvendos."
+    },
+    "stages": {
+      "new": "Të rinj",
+      "contacted": "Kontaktuar",
+      "viewing": "Vizitë",
+      "reserved": "Rezervuar",
+      "won": "Fituar",
+      "lost": "Humbur"
+    },
+    "activity": {
+      "title": "Regjistri i aktivitetit",
+      "status": "Statusi",
+      "price": "Çmimi",
+      "all": "Të gjitha",
+      "by": "nga {actor}",
+      "managerOnly": "Regjistri i plotë i auditimit është i disponueshëm për menaxheret e shitjeve."
+    },
+    "errors": {
+      "conflict": "Dikush tjetër e përditësoi këtë njësi pak më parë. Tani shfaqen të dhënat e fundit — provoni sërish.",
+      "forbidden": "Roli juaj nuk e lejon këtë veprim.",
+      "invalid_transition": "Ky ndryshim statusi nuk lejohet.",
+      "same_status": "Njësia e ka tashmë këtë status.",
+      "validation": "Ju lutem kontrolloni formularin.",
+      "not_found": "Nuk u gjet.",
+      "empty_selection": "Asgjë për të ndryshuar.",
+      "rate_limited": "Ngadalësoni pak.",
+      "saved": "U ruajt"
+    }
+  },
+  "common": {
+    "close": "Mbyll",
+    "cancel": "Anulo",
+    "save": "Ruaj",
+    "all": "Të gjitha",
+    "yes": "Po",
+    "no": "Jo",
+    "legend": "Legjenda",
+    "loading": "Duke u ngarkuar…",
+    "notFound": "Faqja nuk u gjet",
+    "goHome": "Kthehu në fillim"
+  }
+}

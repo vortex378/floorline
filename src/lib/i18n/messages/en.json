@@ -1,0 +1,421 @@
+{
+  "meta": {
+    "title": "Vela Residence · Tirana",
+    "description": "Pick your apartment floor by floor. Live availability, floor plans and prices for Vela Residence, a fictional residential project in Tirana.",
+    "units": "Residences",
+    "compare": "Compare",
+    "admin": "Sales office"
+  },
+  "nav": {
+    "residences": "Residences",
+    "building": "Building",
+    "location": "Location",
+    "progress": "Progress",
+    "contact": "Contact",
+    "findHome": "Find your home",
+    "salesOffice": "Sales office",
+    "compare": "Compare",
+    "menu": "Menu",
+    "close": "Close",
+    "language": "Language",
+    "skip": "Skip to content"
+  },
+  "demo": {
+    "banner": "Fictional demo project. Data is a sandbox stored in your browser.",
+    "footer": "Vela Residence is a fictional project built as a product demo. No real apartments, people or prices.",
+    "builtBy": "Built by Arkel Lahi",
+    "source": "Source code"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Tirana · Handover {delivery}",
+      "title": "Live above the city.",
+      "lead": "Twelve levels, sixty-five homes and a roof garden near the Grand Park. Choose your apartment floor by floor, with availability that updates live.",
+      "cta": "Explore residences",
+      "secondary": "Book a viewing",
+      "scroll": "Scroll"
+    },
+    "stats": {
+      "homes": "Homes",
+      "levels": "Levels",
+      "sold": "Sold",
+      "handover": "Handover"
+    },
+    "intro": {
+      "eyebrow": "The building",
+      "title": "Quiet architecture. Generous light.",
+      "body": "Vela is a slim tower of warm travertine and bronze, set back from the street behind a planted courtyard. Every home has a deep balcony, floor-to-ceiling glazing and cross ventilation. Commercial spaces at street level, private terraces at the top.",
+      "points": ["Deep balconies on every home", "Underground parking and storage", "Class A energy performance", "Concierge and secure lobby"]
+    },
+    "typologies": {
+      "eyebrow": "Typologies",
+      "title": "Four ways to live at Vela.",
+      "from": "From",
+      "available": "{count} available",
+      "soldOut": "Sold out",
+      "onRequest": "Price on request",
+      "view": "See homes"
+    },
+    "location": {
+      "eyebrow": "Location",
+      "title": "Close to everything that matters.",
+      "body": "A calm residential street, a short walk from the park and ten minutes from the centre.",
+      "points": {
+        "park": "Grand Park",
+        "center": "City centre",
+        "school": "International school",
+        "airport": "Airport",
+        "market": "Market & cafés"
+      },
+      "minutes": "{n} min",
+      "walk": "walk",
+      "drive": "drive"
+    },
+    "amenities": {
+      "eyebrow": "Amenities",
+      "title": "Designed for everyday life.",
+      "items": {
+        "garden": ["Roof garden", "Shared terrace with city views on level 12."],
+        "parking": ["Parking", "Two underground levels with EV charging."],
+        "lobby": ["Lobby & concierge", "Double-height entrance with 24/7 security."],
+        "gym": ["Fitness studio", "Equipped gym for residents."],
+        "storage": ["Storage", "Private storage room for every apartment."],
+        "solar": ["Solar & heat pumps", "Lower running costs, Class A rating."]
+      }
+    },
+    "progress": {
+      "eyebrow": "Construction",
+      "title": "On schedule for {delivery}.",
+      "stages": ["Permits", "Foundations", "Structure", "Facade & roof", "Interiors & handover"],
+      "done": "Completed",
+      "current": "In progress",
+      "next": "Upcoming"
+    },
+    "contact": {
+      "eyebrow": "Visit",
+      "title": "See it before it's built.",
+      "body": "Book a viewing at our sales office, or ask for floor plans and a payment plan on WhatsApp.",
+      "office": "Sales office on site",
+      "hours": "Mon–Sat · 9:00–19:00",
+      "whatsapp": "Chat on WhatsApp"
+    }
+  },
+  "types": {
+    "1+1": "1+1",
+    "2+1": "2+1",
+    "3+1": "3+1",
+    "penthouse": "Penthouse",
+    "commercial": "Commercial"
+  },
+  "typesLong": {
+    "1+1": "One-bedroom apartment",
+    "2+1": "Two-bedroom apartment",
+    "3+1": "Three-bedroom apartment",
+    "penthouse": "Penthouse",
+    "commercial": "Commercial space"
+  },
+  "status": {
+    "available": "Available",
+    "reserved": "Reserved",
+    "sold": "Sold",
+    "unavailable": "Not for sale"
+  },
+  "orientation": {
+    "N": "North",
+    "NE": "North-east",
+    "E": "East",
+    "SE": "South-east",
+    "S": "South",
+    "SW": "South-west",
+    "W": "West",
+    "NW": "North-west"
+  },
+  "rooms": {
+    "living": "Living",
+    "bed": "Bed",
+    "bath": "Bath",
+    "kitchen": "Kitchen",
+    "terrace": "Terrace",
+    "storage": "Store",
+    "shop": "Retail",
+    "lobby": "Lobby"
+  },
+  "floors": {
+    "ground": "Ground floor",
+    "penthouse": "Penthouse level",
+    "floor": "Floor {n}",
+    "short": "L{n}",
+    "groundShort": "G",
+    "phShort": "PH"
+  },
+  "picker": {
+    "eyebrow": "Residences",
+    "title": "Choose your home",
+    "subtitle": "Pick a floor, then a home. Availability is live.",
+    "building": "Building",
+    "list": "List",
+    "selectFloor": "Select a floor",
+    "floorSummary": "{available} of {total} available",
+    "from": "from {price}",
+    "noneOnFloor": "No homes on this floor match your filters.",
+    "results": "{count} homes match",
+    "liveHint": "Live: open the sales office in another tab and reserve a unit to see it update here.",
+    "openSalesOffice": "Open sales office",
+    "unitLabel": "{code}, {type}, {area}, {status}",
+    "north": "N",
+    "scale": "10 m"
+  },
+  "filters": {
+    "title": "Filters",
+    "open": "Filters",
+    "type": "Type",
+    "price": "Price (€)",
+    "area": "Area (m²)",
+    "floor": "Floor",
+    "orientation": "Orientation",
+    "availableOnly": "Available only",
+    "min": "Min",
+    "max": "Max",
+    "reset": "Reset",
+    "apply": "Show {count} homes",
+    "active": "{count} active"
+  },
+  "list": {
+    "code": "Home",
+    "type": "Type",
+    "floor": "Floor",
+    "area": "Area",
+    "orientation": "Facing",
+    "price": "Price",
+    "status": "Status",
+    "sortBy": "Sort by {field}",
+    "empty": "No homes match your filters."
+  },
+  "unit": {
+    "eyebrow": "Residence {code}",
+    "back": "All residences",
+    "facts": "Key facts",
+    "type": "Type",
+    "floor": "Floor",
+    "areaNet": "Net area",
+    "areaGross": "Gross area",
+    "terrace": "Balcony / terrace",
+    "bedrooms": "Bedrooms",
+    "bathrooms": "Bathrooms",
+    "orientation": "Orientation",
+    "pricePerM2": "{price} / m²",
+    "onRequest": "Price on request",
+    "request": "Request a viewing",
+    "reserve": "Reserve this home",
+    "whatsapp": "WhatsApp",
+    "whatsappText": "Hello! I'm interested in residence {code} ({type}) at Vela Residence: {url}",
+    "copyLink": "Copy link",
+    "copied": "Link copied",
+    "print": "Print",
+    "save": "Save",
+    "saved": "Saved",
+    "compare": "Compare",
+    "comparing": "In compare",
+    "similar": "Similar homes",
+    "noSimilar": "No similar homes available right now.",
+    "notAvailable": "This home is {status}. Join the waiting list or see similar homes.",
+    "view": "View home",
+    "planTitle": "Floor plan of residence {code}",
+    "compass": "Facing {dir}",
+    "updated": "Status updated live"
+  },
+  "lead": {
+    "title": "Request a viewing",
+    "subtitle": "We'll get back to you within one working day.",
+    "for": "For: {codes}",
+    "name": "Full name",
+    "phone": "Phone",
+    "email": "Email",
+    "emailOptional": "Email (optional)",
+    "preferred": "Preferred contact",
+    "message": "Message",
+    "messagePlaceholder": "When would you like to visit? Any questions?",
+    "consent": "I agree to be contacted about Vela Residence.",
+    "submit": "Send request",
+    "sending": "Sending…",
+    "successTitle": "Request received",
+    "successBody": "Thank you, {name}. A sales advisor will contact you via {method}.",
+    "successHint": "This is a demo — your request now appears in the sales office.",
+    "seeInOffice": "See it in the sales office",
+    "close": "Close",
+    "methods": {
+      "whatsapp": "WhatsApp",
+      "phone": "Phone call",
+      "email": "Email"
+    },
+    "errors": {
+      "name_min": "Please enter your name.",
+      "phone_invalid": "Please enter a valid phone number.",
+      "email_invalid": "Please enter a valid email.",
+      "email_required": "Email is required if you prefer email.",
+      "consent_required": "Please accept to continue.",
+      "too_long": "Too long.",
+      "unknown_unit": "Unknown home.",
+      "rate_limited": "Too many requests. Please try again in {minutes} min.",
+      "generic": "Something went wrong. Please try again."
+    }
+  },
+  "compare": {
+    "eyebrow": "Compare",
+    "title": "Compare homes",
+    "empty": "Add up to three homes to compare them side by side.",
+    "browse": "Browse residences",
+    "remove": "Remove",
+    "max": "You can compare up to 3 homes.",
+    "price": "Price"
+  },
+  "admin": {
+    "title": "Sales office",
+    "sandbox": "Sandbox",
+    "sandboxHint": "Everything here runs in your browser. Changes sync live to other open tabs.",
+    "reset": "Reset demo data",
+    "resetConfirm": "Reset all units, leads and history to the demo seed?",
+    "signIn": {
+      "title": "Sign in to the sales office",
+      "body": "Pick a demo persona. Permissions differ by role.",
+      "admin": "Sales manager",
+      "adminHint": "Full access: prices, bulk changes, undo sales, audit log.",
+      "agent": "Sales agent",
+      "agentHint": "Reserve and sell units, manage leads.",
+      "continue": "Continue as {name}"
+    },
+    "signOut": "Switch user",
+    "nav": {
+      "dashboard": "Dashboard",
+      "units": "Units",
+      "leads": "Leads",
+      "activity": "Activity",
+      "site": "View site"
+    },
+    "roles": {
+      "admin": "Manager",
+      "agent": "Agent"
+    },
+    "kpi": {
+      "sold": "Sold",
+      "reserved": "Reserved",
+      "available": "Available",
+      "soldValue": "Sales value",
+      "reservedValue": "Reserved value",
+      "newLeads": "New leads (7 days)",
+      "conversion": "Lead → sale",
+      "ofUnits": "of {total} units"
+    },
+    "charts": {
+      "salesByMonth": "Sales per month",
+      "leadsBySource": "Leads by source",
+      "inventory": "Inventory by floor",
+      "units": "{count} units"
+    },
+    "sources": {
+      "unit_page": "Unit page",
+      "picker": "Picker",
+      "contact": "Contact form",
+      "compare": "Compare"
+    },
+    "recent": "Recent activity",
+    "units": {
+      "search": "Search code…",
+      "allStatuses": "All statuses",
+      "allTypes": "All types",
+      "allFloors": "All floors",
+      "bulk": "Bulk price change",
+      "count": "{count} units",
+      "lastChange": "Last change"
+    },
+    "unitDrawer": {
+      "changeStatus": "Change status",
+      "to": "New status",
+      "linkLead": "Link a lead (optional)",
+      "noLead": "No lead",
+      "note": "Note",
+      "notePlaceholder": "e.g. Deposit received",
+      "apply": "Update status",
+      "noTransitions": "No status changes allowed for your role.",
+      "price": "Price",
+      "visible": "Show price on website",
+      "savePrice": "Save price",
+      "history": "History",
+      "noHistory": "No changes yet.",
+      "priceChange": "Price {old} → {new}",
+      "statusChange": "{from} → {to}",
+      "viewOnSite": "View on site",
+      "managerOnly": "Only a sales manager can edit prices."
+    },
+    "bulk": {
+      "title": "Bulk price change",
+      "body": "Reprice every unit still on sale that matches the selection.",
+      "floors": "Floors",
+      "types": "Types",
+      "all": "All",
+      "percent": "Change (%)",
+      "reason": "Reason",
+      "reasonPlaceholder": "e.g. Phase 3 pricing",
+      "preview": "Preview",
+      "rows": "{count} units · total {delta}",
+      "apply": "Apply to {count} units",
+      "none": "No units on sale match this selection."
+    },
+    "leads": {
+      "search": "Search name, phone, unit…",
+      "export": "Export CSV",
+      "allSources": "All sources",
+      "unassigned": "Unassigned",
+      "moveTo": "Move to",
+      "notes": "Notes",
+      "addNote": "Add note",
+      "notePlaceholder": "Write a note…",
+      "assign": "Assigned to",
+      "units": "Homes",
+      "contact": "Contact",
+      "message": "Message",
+      "received": "Received {when}",
+      "empty": "No leads",
+      "dragHint": "Drag cards between columns, or use the Move menu."
+    },
+    "stages": {
+      "new": "New",
+      "contacted": "Contacted",
+      "viewing": "Viewing",
+      "reserved": "Reserved",
+      "won": "Won",
+      "lost": "Lost"
+    },
+    "activity": {
+      "title": "Activity log",
+      "status": "Status",
+      "price": "Price",
+      "all": "All",
+      "by": "by {actor}",
+      "managerOnly": "The full audit log is available to sales managers."
+    },
+    "errors": {
+      "conflict": "Someone else updated this unit a moment ago. The latest data is now shown — please try again.",
+      "forbidden": "Your role isn't allowed to do that.",
+      "invalid_transition": "That status change isn't allowed.",
+      "same_status": "The unit already has that status.",
+      "validation": "Please check the form.",
+      "not_found": "Not found.",
+      "empty_selection": "Nothing to change.",
+      "rate_limited": "Slow down a little.",
+      "saved": "Saved"
+    }
+  },
+  "common": {
+    "close": "Close",
+    "cancel": "Cancel",
+    "save": "Save",
+    "all": "All",
+    "yes": "Yes",
+    "no": "No",
+    "legend": "Legend",
+    "loading": "Loading…",
+    "notFound": "Page not found",
+    "goHome": "Back to home"
+  }
+}
